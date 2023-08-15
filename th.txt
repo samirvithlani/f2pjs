@@ -1,0 +1,45 @@
+var you need to define data type....
+var let const -->
+
+var globle scope
+let block scope
+const block scope  --> final keyword...
+
+string
+number
+boolean
+undefined
+null
+object
+
+
+DOM --> Document Object Model HTML
+
+function
+JSON object
+array  ---> 
+callback function
+promise
+async await
+
+
+with return type with argument
+without return type with argument
+with return type without argument
+without return type without argument
+
+
+void demo(){
+
+}
+int sum(){
+
+}
+
+
+function --->
+
+
+
+
+
